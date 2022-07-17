@@ -1,8 +1,8 @@
 
 {
-  "name": "Miss Rose",
-  "logo": "https://telegra.ph/file/48522f7be29b993a19e60.jpg",
-  "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
+  "name": "Miss 002",
+  "logo": "https://i.postimg.cc/sxmSNnNj/avatar5131555257-0.jpg",
+  "description": "Telegram's useless group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
     "best",
@@ -81,7 +81,7 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "10"
+        "version": "14"
       }
     }
   ]
