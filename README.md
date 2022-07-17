@@ -12,7 +12,7 @@
 
 • [Dan Tes](https://github.com/delivrance) For his [Pyrogram](https://docs.pyrogram.org/) Library
 
-• [MENCRETSU](https://github.com/mencretsu) For his [Cute Boy]
+• [MENCRETSU](https://github.com/mencretsu) For nothing
 
 ## Profile
 
